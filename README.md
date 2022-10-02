@@ -6,7 +6,7 @@ Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 Java 
 
 ```
-Execute javac Main.java para compilar 
+Execute javac Main.java para compilar.
 ```
 
 ```
